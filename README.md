@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjog Gomden
 =====================================================================================================================================
 
-MERN Stack Developer
+WordPress and MERN Stack Developer
 --------------------
 
 I'm an experienced professional with a strong passion for coding and a background in providing technical support for WordPress themes and plugins. I'm now excited to pivot into a MERN Stack developer role. My problem-solving skills, customer-centric approach, and adaptability make me a valuable asset to any team. I'm eager to contribute to innovative projects and stay at the forefront of the tech industry.
