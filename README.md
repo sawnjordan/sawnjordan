@@ -10,8 +10,8 @@ I'm a DevOps engineer with a strong passion for coding and automation. With a ba
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [Portfolio](http://sawnjordan.github.io/)
 * ✉️  You can contact me at [sawnjordan@gmail.com](mailto:sawnjordan@gmail.com)
-* 🚀  I'm currently learning [Apache Kafka](https://github.com/sawnjordan/python-kafka-demo)
-* 🧠  I'm learning MERN Stack
+* 🚀  I'm currently working on IaC with Terraform and Ansible
+* 🧠  I'm learning [Apache Kafka](https://github.com/sawnjordan/python-kafka-demo)
 
 ### Skills
 
